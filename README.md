@@ -1,4 +1,4 @@
 # front-end-alura
- Introdução ao Front-End por Alura
- Aula 1
- Aula 2
+ <b>Introdução ao Front-End por Alura</b>
+ <li>Aula 1</li>
+ <li> Aula 2 </li>
