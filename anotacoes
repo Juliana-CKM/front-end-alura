@@ -1,6 +1,17 @@
+Aula 1: 
+Revisar as diferenças entre HTML, CSS e JavaScript;
+Fazer a sidebar navigation;
+Aprender dicas de atalho no VSCode para escrever HTML;
+Introduzir as propriedades de estilo do CSS no projeto, com truques no Devtools.
+
 Criação de pasta
 Arquivos html, css, e JS na pasta
 Adicionar Doctype, meta, header, body
 Início do Código: Título
 Adicionar CDN: Biblioteca
 A ordem dos códigos css no html importa. Reset CSS antes de Style para não resetar.
+
+Aula 2: 
+Criar todo menu lateral da página;
+Aprender os fundamentos do CSS Flexbox;
+Saber mais sobre posicionamentos no CSS.
