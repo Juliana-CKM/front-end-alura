@@ -1,3 +1,5 @@
+Projeto: Clone landing page Spotify, utilizando HTML, CSS e JS.
+
 Aula 1: 
 Revisar as diferenças entre HTML, CSS e JavaScript;
 Fazer a sidebar navigation;
@@ -15,3 +17,15 @@ Aula 2:
 Criar todo menu lateral da página;
 Aprender os fundamentos do CSS Flexbox;
 Saber mais sobre posicionamentos no CSS.
+
+Aula 3:
+Estruturar melhor o projeto;
+Refatorar o código;
+Fazer o layout flexbox;
+Aprender conceitos de responsividade;
+Criar o menu superior.
+
+Vars.css = Variáveis
+Criar root com variáveis, como fonte, cores, tamanhos, etc.
+
+Main : a tag Main no html é muito útil, ajuda para leitor assistivos saberem a parte principal da página. Acessibilidade.
