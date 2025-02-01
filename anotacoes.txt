@@ -29,3 +29,13 @@ Vars.css = Variáveis
 Criar root com variáveis, como fonte, cores, tamanhos, etc.
 
 Main : a tag Main no html é muito útil, ajuda para leitor assistivos saberem a parte principal da página. Acessibilidade.
+
+Aula 4:
+Criar os cards da página inicial;
+Aprender a usar o CSS Grid Layout;
+Utilizar media queries para responsividade;
+Instalar do Node.js;
+Introduzir o JavaScript no projeto;
+Utilizar o conceito DOM;
+Conhecer o método Promises do JavaScript;
+Desafios: fazer mais cards se baseando na página do Spotify e criar um arquivo API JSON diferente.
